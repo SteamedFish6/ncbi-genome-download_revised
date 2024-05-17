@@ -1,4 +1,4 @@
-# ncbi_genome_download
+# ncbi-genome-download_revised
 A revised ncbi_genome_download tool that can set a maximum number of sequences to be downloaded.
 
 Add one argument called '-D' ('--max-download' ) which sets a maximum number of download candidates.
