@@ -3,6 +3,6 @@ A revised ncbi_genome_download tool that can set a maximum number of sequences t
 
 Add one argument called '-D' ('--max-download' ) which sets a maximum number of download candidates.
 
-To apply the changes, just replace 'core.py' and 'config.py' in your 'ncbi_genome_download' package to the revised ones.
+To apply the changes, just replace 'core.py' and 'config.py' in your 'ncbi_genome_download' package to the revised ones (in this repo).
 
-Please see the origingal tool at: https://github.com/kblin/ncbi-genome-download .
+Please see the original tool at: https://github.com/kblin/ncbi-genome-download .
